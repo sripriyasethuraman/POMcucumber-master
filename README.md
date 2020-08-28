@@ -5,7 +5,7 @@ README This script is intended to know the exact location of city bikes around t
 Pre-requisites
 To clone the repo:
 
-https://github.com/sripriyasethuraman/POMcucumber-master/
+https://github.com/sripriyasethuraman/POMcucumber-master
 
 Installation
 1. Install python 3.7
